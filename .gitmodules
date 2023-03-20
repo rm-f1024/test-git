@@ -1,0 +1,3 @@
+[submodule "test-git-son"]
+	path = test-git-son
+	url = git@github.com:rm-f1024/test-git-son.git
